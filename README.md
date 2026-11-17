@@ -77,11 +77,9 @@ Explore detailed architecture breakdowns and live systems on [portfolio-2026-pi-
 
 | Project | Domain | Architecture & Highlights | Case Study & Code |
 | :--- | :--- | :--- | :---: |
-| **Human Capital Management (HCM) System** | Backend & APIs | Distributed microservices combining public REST CRUD APIs with internal low-latency gRPC services, SQL Server, and NGINX load balancing. | [Case Study](https://portfolio-2026-pi-green.vercel.app/projects/hcm-system) |
 | **AI SQL Query Explainer** | Full-Stack & AI | Structured 4-part SQL query explainer and optimizer powered by Google Gemini, with persistent rate limiting and AST validation. | [Case Study](https://portfolio-2026-pi-green.vercel.app/projects/sql-query-explainer) • [Frontend](https://github.com/Ru-Rus/sql-query-explainer-frontend) • [Backend](https://github.com/Ru-Rus/sql-query-explainer-backend) |
 | **PesoPilot AI** | Full-Stack & Fintech | Secure personal finance engine with integer centavo arithmetic, Keycloak OIDC/PKCE auth, and atomic CSV bank statement ingestion. | [Case Study](https://portfolio-2026-pi-green.vercel.app/projects/pesopilot-ai) • [Repo](https://github.com/Ru-Rus/PesoPilotAI) |
 | **GitHub Autopsy** | Full-Stack & Tooling | Transparent repository forensics tool featuring bounded GitHub sampling, AST module dependency mapping, and immutable PostgreSQL reports. | [Case Study](https://portfolio-2026-pi-green.vercel.app/projects/github-autopsy) • [Repo](https://github.com/Ru-Rus/github-autopsy) |
-| **QueryTab UCMS** | Backend & Enterprise | Customer segmentation engine built with Angular 19 SSR, Node.js API gateway, and dual MongoDB + MySQL persistence. | [Case Study](https://portfolio-2026-pi-green.vercel.app/projects/querytab-ucms) |
 | **Portfolio 2026 & Playground** | Full-Stack & Web | Modern portfolio with interactive System Design Playground, project case studies, and certification records. | [Live Demo](https://portfolio-2026-pi-green.vercel.app) • [Repo](https://github.com/Ru-Rus/portfolio_2026) |
 
 <br>
