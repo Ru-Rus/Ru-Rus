@@ -14,6 +14,9 @@
   <a href="https://portfolio-2026-pi-green.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%202026-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://portfolio-2026-pi-green.vercel.app/playground" target="_blank">
+    <img src="https://img.shields.io/badge/System%20Design%20Playground-10B981?style=for-the-badge&logo=codewars&logoColor=white" alt="Playground" />
+  </a>
   <a href="https://portfolio-2026-pi-green.vercel.app/projects" target="_blank">
     <img src="https://img.shields.io/badge/Case%20Studies-4F46E5?style=for-the-badge&logo=diagramnext&logoColor=white" alt="Projects" />
   </a>
@@ -22,9 +25,6 @@
   </a>
   <a href="https://www.linkedin.com/in/rus-marq/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ru-Rus?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-12-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 
 </div>
@@ -39,10 +39,25 @@ I am a **Backend & Distributed Systems Developer** dedicated to designing APIs, 
 
 - :briefcase: **What I Do**: Architect REST and gRPC services, configure NGINX load balancing, break down monoliths into microservices, and design dual/polyglot database architectures.
 - :mortar_board: **Education**: Bachelor of Science in Computer Science, major in **Application Development** from **University of Makati**.
-- :telescope: **Featured Case Studies**: Author of in-depth architectural breakdowns on my [2026 Portfolio](https://portfolio-2026-pi-green.vercel.app/projects), including [HCM System](https://portfolio-2026-pi-green.vercel.app/projects/hcm-system), [AI SQL Query Explainer](https://portfolio-2026-pi-green.vercel.app/projects/sql-query-explainer), [PesoPilot AI](https://portfolio-2026-pi-green.vercel.app/projects/pesopilot-ai), and [GitHub Autopsy](https://portfolio-2026-pi-green.vercel.app/projects/github-autopsy).
+- :telescope: **Featured Case Studies**: Author of in-depth architectural breakdowns on my [2026 Portfolio](https://portfolio-2026-pi-green.vercel.app/projects), including [AI SQL Query Explainer](https://portfolio-2026-pi-green.vercel.app/projects/sql-query-explainer), [PesoPilot AI](https://portfolio-2026-pi-green.vercel.app/projects/pesopilot-ai), and [GitHub Autopsy](https://portfolio-2026-pi-green.vercel.app/projects/github-autopsy).
 - :seedling: **Current Pursuits**: Diving deep into system design fundamentals, horizontal scaling, distributed caching, and offline-first mobile synchronization.
 - :speech_balloon: **Ask Me About**: System architecture trade-offs, gRPC vs REST, database schema design (SQL Server, PostgreSQL, MongoDB, MySQL), and API security.
-- :zap: **Engineering Mindset**: *"A frontend bug is visible immediately — a backend bug can hide for weeks before it becomes an outage. That's why I build for precision and edge cases."*
+- :zap: **Engineering Mindset**: *"A frontend bug is visible immediately — a backend bug can hide for weeks before it becomes an outage. That's why I build for precision, fail-safes, and edge cases."*
+
+<br>
+
+---
+
+### :video_game: Interactive System Design Playground
+
+<div align="center">
+  <p>I built an interactive architectural sandbox to demonstrate distributed systems concepts in real time:</p>
+  <a href="https://portfolio-2026-pi-green.vercel.app/playground" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20System%20Design%20Playground%20%E2%86%92-10B981?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Playground Button" />
+  </a>
+  <br><br>
+  <sub>Simulate Client-to-Proxy routing, NGINX Load Balancing, Service-to-Service gRPC calls, and Database failover models.</sub>
+</div>
 
 <br>
 
@@ -86,6 +101,19 @@ Explore detailed architecture breakdowns and live systems on [portfolio-2026-pi-
 
 ---
 
+### :books: Continuous Learning & Certifications
+
+A curated selection of verified technical coursework and system design certifications (full records available on [portfolio-2026-pi-green.vercel.app/skills](https://portfolio-2026-pi-green.vercel.app/skills)):
+
+- :heavy_check_mark: **Microservices Architecture & System Design** — gRPC service-to-service contracts, service discovery, and event-driven patterns
+- :heavy_check_mark: **High-Performance SQL Server & Database Tuning** — Query execution plans, index strategies, and stored procedure optimization
+- :heavy_check_mark: **RESTful API Architecture & Modern Security** — OAuth2, OIDC with PKCE, rate limiting, and resilient API gateways
+- :heavy_check_mark: **Full-Stack Next.js & Strict TypeScript** — App Router, server-side data fetching, and type-safe schema validation
+
+<br>
+
+---
+
 ### :bar_chart: GitHub Streak & Activity
 
 <div align="center">
@@ -109,6 +137,10 @@ Explore detailed architecture breakdowns and live systems on [portfolio-2026-pi-
 
   <a href="https://portfolio-2026-pi-green.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%202026-Live-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-2026-pi-green.vercel.app/playground" target="_blank">
+    <img src="https://img.shields.io/badge/Playground-Interactive-10B981?style=flat-square&logo=codewars&logoColor=white" alt="Playground" />
   </a>
   &nbsp;
   <a href="mailto:jmarquillero.r@gmail.com">
